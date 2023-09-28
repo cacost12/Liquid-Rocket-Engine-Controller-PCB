@@ -103,12 +103,7 @@
   (pad "27" smd rect (at -1 -2.59) (size 0.254 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5b6da1c6-acae-4ca8-87c1-426b8c553f9b))
   (pad "28" smd rect (at -1.5 -2.59) (size 0.254 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3540e45-a8cd-4dc7-8320-bbe8c718bdc3))
   (pad "29" smd rect (at 0 0) (size 3.1 3.1) (layers "F.Cu" "F.Mask") (tstamp 310c88ea-f936-439c-9bd2-56d5c9f1341b))
-  (model "/home/olsport/Documents/SDR/PCB/Liquids-Engine-Controller/CAD/3Dfiles/CP2102-GMR_QFN28.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
-  (model "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/CAD/3Dfiles/CP2102-GMR_QFN28.step"
+  (model "$(MY_KICAD_3DMODEL_DIR)/CP2102.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

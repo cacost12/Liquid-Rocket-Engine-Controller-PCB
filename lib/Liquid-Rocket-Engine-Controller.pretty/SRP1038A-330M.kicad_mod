@@ -19,12 +19,7 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp c519917d-619b-48bd-b3ab-20c897624a41))
   (pad "1" smd rect (at 4.45 0) (size 3.5 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7b951260-6f66-472b-b940-60a624f43802))
   (pad "2" smd rect (at -4.45 0) (size 3.5 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 571c0778-16c1-48dc-82f9-1a91358e55a5))
-  (model "/home/olsport/Documents/SDR/PCB/Liquids-Engine-Controller/CAD/3Dfiles/SRP1038A-330M.stp"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/CAD/3Dfiles/SRP1038A-330M.stp"
+  (model "$(MY_KICAD_3DMODEL_DIR)/SRP1038A-330M.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

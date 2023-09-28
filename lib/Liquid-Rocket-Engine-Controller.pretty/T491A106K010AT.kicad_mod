@@ -68,7 +68,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 99c5683f-540c-4316-951d-902f36389cb9))
   (pad "1" smd rect (at -1.3208 0 90) (size 1.778 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 65bfbec7-6fb9-4987-80c1-ff1851d54038))
   (pad "2" smd rect (at 1.3208 0 90) (size 1.778 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ad0b7577-2d20-4b4e-84d6-d463a72ffc4e))
-  (model "/home/olsport/Documents/SDR/PCB/Flight-Computer/CAD/3Dfiles/T491A106K010AT.step"
+  (model "$(MY_KICAD_3DMODEL_DIR)/T491A106K010AT.step"
     (offset (xyz 1.5875 0.9525 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))

@@ -31,12 +31,7 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 75d34245-d4dc-4528-8a52-96d24be049e6))
   (pad "1" smd rect (at -0.955 0) (size 0.92 1.38) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a097e32-8a47-4e0b-9751-c551ac9aa235))
   (pad "2" smd rect (at 0.955 0) (size 0.92 1.38) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a04730f-9274-4bff-92be-581fea51fe26))
-  (model "/home/olsport/Documents/SDR/PCB/Liquids-Engine-Controller/CAD/3Dfiles/RC0805FR-071K54L.STEP"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
-  (model "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/CAD/3Dfiles/RC0805FR-071K54L.STEP"
+  (model "$(MY_KICAD_3DMODEL_DIR)/RES_0805.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

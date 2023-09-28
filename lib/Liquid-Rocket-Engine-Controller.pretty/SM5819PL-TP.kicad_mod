@@ -87,7 +87,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 5e5aa288-49d8-4fa4-aa44-fb201ad0344f))
   (pad "1" smd rect (at -1.8415 0) (size 0.5842 1.0414) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 95615c87-b70d-4f8a-a0b2-62fb5a51ba8c))
   (pad "2" smd rect (at 1.8415 0) (size 0.5842 1.0414) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b53f78e8-e675-4e2b-9e70-b9ea056184fb))
-  (model "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/CAD/3Dfiles/SM5819PL-TP.step"
+  (model "$(MY_KICAD_3DMODEL_DIR)/SM5819PL-TP.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

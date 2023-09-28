@@ -79,12 +79,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c8847844-d25d-4a5c-993f-4be5cb9d79f2))
   (pad "1" smd rect (at -1.3208 0) (size 0.4572 0.8382) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 06cd049f-77e5-4d1d-bebe-8272392d4649))
   (pad "2" smd rect (at 1.3208 0) (size 0.4572 0.8382) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9f08927-e330-4389-a83c-27fdc5905a14))
-  (model "/home/olsport/Documents/SDR/PCB/Liquids-Engine-Controller/CAD/3Dfiles/DIO_RB160VAM_ROM.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/CAD/3Dfiles/DIO_RB160VAM_ROM.step"
+  (model "$(MY_KICAD_3DMODEL_DIR)/DIO_RB160VAM_ROM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
