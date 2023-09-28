@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Liquid-Rocket-Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/Rockets/PCB/Liquid-Rocket-Engine-Controller-PCB/lib/Liquid-Rocket-Engine-Controller.kicad_sym")(options "")(descr ""))
+  (lib (name "Full-Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/Rockets/PCB/Full-Flight-Computer-PCB/lib/Full-Flight-Computer.kicad_sym")(options "")(descr ""))
+  (lib (name "Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/SDR-Liquid-Engine-Controller-PCB/lib/Engine-Controller.kicad_sym")(options "")(descr ""))
+)
