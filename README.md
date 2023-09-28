@@ -1,2 +1,2 @@
-# Liquid-Rocket-Engine-Controller-PCB
-Engine controller for SDR's first ever liquid propelled high power rocket
+# PCB-Template
+Template directory structure for PCB projects.
